@@ -1,8 +1,13 @@
 ## Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/patashale/.github/assets/68323012/ce183986-5a19-4192-bfc2-a2fcb4af5f0a">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/patashale/.github/assets/68323012/e8049307-e619-4a6e-9ef7-3b9a5cb4a213" width="50%">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/patashale/.github/blob/225091a79af7e6733d809367ab95fc96fb855c0c/assets/white.png">
+</picture>
 
 We are building open-source remote learning platform. In fact, we’ve been doing this since April, 2023. 
 
-🎯 Objective
+### 🎯 Objective
 
 1. To build an open-source remote learning platform that is also ad-free and paywall-free.
 2. To build a sustainable, resilient, and responsible ecosystem that is focused on the betterment of society in the fields of education, awareness, and social welfare using this open-source remote learning platform.
@@ -10,7 +15,7 @@ We are building open-source remote learning platform. In fact, we’ve been doin
 4. To encourage and create awareness in society about education, skill-based learning, and better job opportunities using this open-source remote learning platform.
 5. To promote livelihood development and community development through education using this open-source remote learning platform.
 
-🌈 Contribution guidelines
+### 🌈 Contribution guidelines
 
 We appreciate any and all contributions, and hence we have outlined contribution guidelines for each repo or project. 
 
@@ -18,19 +23,24 @@ It is done so because some require a basic signing requirement for contributions
 
 We kindly request that you review each of them before you start working on the repo or project.
 
-👩‍💻 Useful resources
+### 👩‍💻 Useful resources
+
+#### Social:
+  - Website: https://www.patashale.in
+  - LinkedIn: https://www.linkedin.com/company/patashale
+  - Twitter: https://www.twitter.com/patashale_in
+  - Mastodon: https://www.mastodon.social/@patashale
+  - Fosstodon: https://www.fosstodon.org/@patashale
+  - Kooapp: https://www.kooapp.com/profile/patashale
+
+#### Logo:
+
+  Patashale Logo in Orange (#FF671F) | Patashale Logo in White (#FFFFFF)
+  :-------------------------:|:-------------------------:
+  ![Patashale Logo in Orange](/assets/orange.png) | ![Patashale Logo in White](/assets/white.png)
 
 
-- Website: https://www.patashale.in
-- LinkedIn: https://www.linkedin.com/company/patashale
-- Twitter: https://www.twitter.com/patashale_in
-- Mastodon: https://www.mastodon.social/@patashale
-- Fosstodon: https://www.fosstodon.org/@patashale
-- Kooapp: https://www.kooapp.com/profile/patashale
 
-Patashale Logo in Orange (#FF671F) | Patashale Logo in White (#FFFFFF)
-:-------------------------:|:-------------------------:
-![Patashale Logo in Orange](/assets/orange.png) | ![Patashale Logo in White](/assets/white.png)
 
 <!--
 
