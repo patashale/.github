@@ -1,14 +1,17 @@
 ## Hi there 👋
+<div style="text-align: justify">
 
 We are building open-source remote learning platform. In fact, we’ve been doing this since April, 2023. 
 
+</div>
+
 🎯 Objective
 
-1. To build an open-source remote learning platform that is also ad-free and paywall-free.
-2. To build a sustainable, resilient, and responsible ecosystem that is focused on the betterment of society in the fields of education, awareness, and social welfare using this open-source remote learning platform.
-3. To organise and host online programmes to promote better educational programmes and enable people to gain employable skills using this open-source remote learning platform.
-4. To encourage and create awareness in society about education, skill-based learning, and better job opportunities using this open-source remote learning platform.
-5. To promote livelihood development and community development through education using this open-source remote learning platform.
+1. <div style="text-align: justify"> To build an open-source remote learning platform that is also ad-free and paywall-free. </div>
+2. <div style="text-align: justify"> To build a sustainable, resilient, and responsible ecosystem that is focused on the betterment of society in the fields of education, awareness, and social welfare using this open-source remote learning platform. </div>
+3. <div style="text-align: justify"> To organise and host online programmes to promote better educational programmes and enable people to gain employable skills using this open-source remote learning platform. </div>
+4. <div style="text-align: justify"> To encourage and create awareness in society about education, skill-based learning, and better job opportunities using this open-source remote learning platform. </div>
+5. <div style="text-align: justify"> To promote livelihood development and community development through education using this open-source remote learning platform. </div>
 
 🌈 Contribution guidelines
 
