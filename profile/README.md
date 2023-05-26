@@ -37,7 +37,7 @@ We kindly request that you review each of them before you start working on the r
 
   Patashale Logo in Orange (#FF671F) | Patashale Logo in White (#FFFFFF)
   :-------------------------:|:-------------------------:
-  ![Patashale Logo in Orange](/assets/orange.png) | ![Patashale Logo in White](/assets/white.png)
+  ![Patashale Logo in Orange](https://github.com/patashale/.github/blob/7157f7abd0c15ec939b8bfb2b1b938e9830baa77/assets/orange.png) | ![Patashale Logo in White](https://github.com/patashale/.github/blob/7157f7abd0c15ec939b8bfb2b1b938e9830baa77/assets/white.png)
 
 
 
