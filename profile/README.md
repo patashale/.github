@@ -33,7 +33,7 @@ We kindly request that you review each of them before you start working on the r
   - Mastodon: https://www.mastodon.social/@patashale
   - Fosstodon: https://www.fosstodon.org/@patashale
   - Koo: https://www.kooapp.com/profile/patashale
-  - YouTube: https://youtube.com/@patashale
+  - YouTube: https://www.youtube.com/@patashale
 
 > Note: We are only on above mentioned social platforms, and it is updated every minute.
 
