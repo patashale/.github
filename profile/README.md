@@ -32,7 +32,7 @@ We kindly request that you review each of them before you start working on the r
   - Twitter: https://www.twitter.com/patashale_in
   - Mastodon: https://www.mastodon.social/@patashale
   - Fosstodon: https://www.fosstodon.org/@patashale
-  - Kooapp: https://www.kooapp.com/profile/patashale
+  - Koo: https://www.kooapp.com/profile/patashale
 
 #### Logo:
 
