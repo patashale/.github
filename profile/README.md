@@ -37,6 +37,10 @@ We kindly request that you review each of them before you start working on the r
 
 > Note: We are only on above mentioned social platforms, and it is updated every minute.
 
+#### Tagline
+
+Let's get educated for the present and the future.
+
 #### Logo:
 
   Patashale Logo in Orange (#FF671F) | Patashale Logo in White (#FFFFFF)
