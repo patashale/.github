@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/patashale/.github/assets/68323012/ce183986-5a19-4192-bfc2-a2fcb4af5f0a">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/patashale/.github/assets/68323012/e8049307-e619-4a6e-9ef7-3b9a5cb4a213">
-  <img alt="Patashale logo in white" src="https://github.com/patashale/.github/blob/225091a79af7e6733d809367ab95fc96fb855c0c/assets/white.png">
+  <img alt="Patashale logo with tagline in white" src="https://github.com/patashale/.github/assets/68323012/d6cf1d60-4480-4830-8ee7-d91b141de69e">
 </picture>
 
 ### 👋 Introduction
