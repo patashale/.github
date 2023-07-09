@@ -49,4 +49,4 @@ Patashale Logo in Orange `#FF671F` | Patashale Logo in White `#FFFFFF`
 
  Patashale Logo with tagline in White `#FFFFFF` | Patashale Logo with tagline in Orange `#FF671F`
 :-------------------------:|:-------------------------:
-![Patashale Logo with tagline in White](https://github.com/patashale/.github/assets/68323012/7535f8be-b2f7-4b14-ae9d-1cbd44b2190d) | ![Patashale Logo with tagline in Orange](https://github.com/patashale/.github/assets/68323012/870f4333-4706-4852-b3c6-60378a8d2a90)
+![Patashale Logo with tagline in White](https://github.com/patashale/.github/assets/68323012/7535f8be-b2f7-4b14-ae9d-1cbd44b2190d) | ![Patashale Logo with tagline in Orange](https://github.com/patashale/.github/assets/68323012/29203063-c8b2-455f-b38a-8bce265c8dc3)
