@@ -43,6 +43,10 @@ Let's get educated for the present and the future.
 
 #### Logo:
 
-  Patashale Logo in Orange (#FF671F) | Patashale Logo in White (#FFFFFF)
-  :-------------------------:|:-------------------------:
-  ![Patashale Logo in Orange](https://github.com/patashale/.github/blob/7157f7abd0c15ec939b8bfb2b1b938e9830baa77/assets/orange.png) | ![Patashale Logo in White](https://github.com/patashale/.github/blob/7157f7abd0c15ec939b8bfb2b1b938e9830baa77/assets/white.png)
+Patashale Logo in Orange `#FF671F` | Patashale Logo in White `#FFFFFF`
+:-------------------------:|:-------------------------:
+![Patashale Logo in Orange](https://github.com/patashale/.github/blob/7157f7abd0c15ec939b8bfb2b1b938e9830baa77/assets/orange.png) | ![Patashale Logo in White](https://github.com/patashale/.github/blob/7157f7abd0c15ec939b8bfb2b1b938e9830baa77/assets/white.png)
+
+ Patashale Logo with tagline in White `#FFFFFF` | Patashale Logo with tagline in Orange `#FF671F`
+:-------------------------:|:-------------------------:
+![Patashale Logo with tagline in White](https://github.com/patashale/.github/assets/68323012/7535f8be-b2f7-4b14-ae9d-1cbd44b2190d) | ![Patashale Logo with tagline in Orange](https://github.com/patashale/.github/assets/68323012/870f4333-4706-4852-b3c6-60378a8d2a90)
